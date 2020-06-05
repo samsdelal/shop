@@ -1,0 +1,1 @@
+{"items": {"pen": "100", "game": "4999", "table": "15999", "apple": "30", "orange": "13", "toys": "499", "iPhone": "599", "iPad": "799", "MacBook": "1459", "iPd": "143"}}
